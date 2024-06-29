@@ -1,0 +1,13 @@
+body {
+    background-color: #5d8193a8;
+    
+}
+
+h1 {
+    margin-bottom: 30px;
+}
+
+#weatherResult {
+    font-size: 1.25rem;
+    font-weight: bold;
+}
